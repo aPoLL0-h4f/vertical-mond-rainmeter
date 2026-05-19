@@ -51,4 +51,4 @@ Install all fonts before loading the skin to ensure proper rendering.
 
 ## Credits
 
-Created by Goa
+**Created by Goa**
