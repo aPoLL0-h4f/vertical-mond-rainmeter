@@ -38,7 +38,7 @@ Documents\Rainmeter\Skins
 This skin uses the following fonts for the intended aesthetic and layout:
 
 - Anurati
-- Montserrat**
+- Montserrat
 - Nexa *(Light / Thin)*
 
 All required font files are included in:
