@@ -1,4 +1,4 @@
-![Preview Wallpaper](wallpaper.png)
+![Preview Wallpaper](Wallpapers/wallpaper1.png)
 # Soluna Rainmeter Skin
 
 Minimal vertical Rainmeter skin inspired by Mond aesthetic.
