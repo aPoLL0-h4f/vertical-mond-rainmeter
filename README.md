@@ -1,4 +1,4 @@
-## My Wallpaper
+## Ayanami Rei
 
 ![Preview Wallpaper](Wallpapers/wallpaper1.png)
 [Ayanami Rei](https://steamcommunity.com/sharedfiles/filedetails/?id=3258032485)
