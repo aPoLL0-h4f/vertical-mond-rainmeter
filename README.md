@@ -51,5 +51,5 @@ Install all fonts before loading the skin to ensure proper rendering.
 
 ## Credits
 
-Inspired by *Mond* Rainmeter skin by **Connect-R**.
-Created by **Goa**
+- Inspired by *Mond* Rainmeter skin by **Connect-R**.
+- Created by **Goa**
