@@ -35,13 +35,19 @@ Documents\Rainmeter\Skins
 
 ## Required Fonts
 
-- Anurati
-- Montserrat
-- Nexu (Light, Thin)
-Can download all fonts at:
+This skin uses the following fonts for the intended aesthetic and layout:
+
+- **Anurati**
+- **Montserrat**
+- **Nexa** *(Light / Thin)*
+
+All required font files are included in:
+
 ```text
 Skins\Soluna\@Resources\Fonts
 ```
+
+Install all fonts before loading the skin to ensure proper rendering.
 
 ## Credits
 
