@@ -41,4 +41,4 @@ Documents\Rainmeter\Skins
 
 ## Credits
 
-Created by APOLLO
+Created by Goa
