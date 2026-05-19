@@ -1,4 +1,4 @@
-## Ayanami Rei
+## Preview Wallpaper With Soluna
 
 ![Preview Wallpaper](Wallpapers/wallpaper1.png)
 
