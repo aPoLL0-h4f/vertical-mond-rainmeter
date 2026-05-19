@@ -1,7 +1,8 @@
 ## Ayanami Rei
 
 ![Preview Wallpaper](Wallpapers/wallpaper1.png)
-[Ayanami Rei](https://steamcommunity.com/sharedfiles/filedetails/?id=3258032485)
+
+Wallpaper: [Ayanami Rei](https://steamcommunity.com/sharedfiles/filedetails/?id=3258032485)
 
 # Soluna Rainmeter Skin
 
