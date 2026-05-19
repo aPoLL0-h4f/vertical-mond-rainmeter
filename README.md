@@ -38,6 +38,10 @@ Documents\Rainmeter\Skins
 - Anurati
 - Montserrat
 - Nexu (Light, Thin)
+Can download all fonts at:
+```text
+Skins\Soluna\@Resources\Fonts
+```
 
 ## Credits
 
