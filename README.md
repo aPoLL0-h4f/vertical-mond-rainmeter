@@ -31,6 +31,7 @@ Documents\Rainmeter\Skins
 
 - Anurati
 - Montserrat
+- Nexu (Light, Thin)
 
 ## Credits
 
