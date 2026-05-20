@@ -39,6 +39,7 @@ Documents\Rainmeter\Skins
 This skin uses the following fonts for the intended aesthetic and layout:
 
 - Anurati
+- Electroharmonix
 - Montserrat
 - Nexa *(Light / Thin)*
 
