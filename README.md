@@ -18,7 +18,8 @@ Minimal vertical Rainmeter skin inspired by Mond aesthetic.
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](Preview/preview.png)
+![Preview](Preview/preview2.png)
 
 ## Installation
 
